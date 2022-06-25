@@ -1,2 +1,2 @@
-# C-Mini-Project-Quiz-Game
-A C language Mini Project
+# C-Quiz-Game
+A C language Solo Project
